@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Per-computer settings and history (created when the app runs)
+settings.json
+ignored.json
+logs/
+
+# Editor / assistant tooling
+.claude/
